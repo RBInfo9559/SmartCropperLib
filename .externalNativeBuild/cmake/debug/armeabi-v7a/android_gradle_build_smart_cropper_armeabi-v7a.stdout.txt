@@ -1,0 +1,4 @@
+[1/4] Building CXX object CMakeFiles/smart_cropper.dir/src/main/cpp/Scanner.cpp.o
+[2/4] Building CXX object CMakeFiles/smart_cropper.dir/src/main/cpp/android_utils.cpp.o
+[3/4] Building CXX object CMakeFiles/smart_cropper.dir/src/main/cpp/smart_cropper.cpp.o
+[4/4] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\armeabi-v7a\libsmart_cropper.so

@@ -1,0 +1,50 @@
+
+{
+	"buildFiles" : [ "E:/WorkSpace/CameraToPdfScanner/smartcropperlib/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"\"E:\\RB Infotech\\android_sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\" --build E:\\WorkSpace\\CameraToPdfScanner\\smartcropperlib\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"smart_cropper-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "smart_cropper",
+			"buildCommand" : "\"E:\\RB Infotech\\android_sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\" --build E:\\WorkSpace\\CameraToPdfScanner\\smartcropperlib\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target smart_cropper",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=\"E:/RB Infotech/android_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"E:/RB Infotech/android_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot\"  -Dsmart_cropper_EXPORTS -I..\\..\\..\\..\\opencv\\include -I..\\..\\..\\..\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/WorkSpace/CameraToPdfScanner/smartcropperlib/src/main/cpp/android_utils.cpp",
+					"workingDirectory" : "E:/WorkSpace/CameraToPdfScanner/smartcropperlib/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=\"E:/RB Infotech/android_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"E:/RB Infotech/android_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot\"  -Dsmart_cropper_EXPORTS -I..\\..\\..\\..\\opencv\\include -I..\\..\\..\\..\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/WorkSpace/CameraToPdfScanner/smartcropperlib/src/main/cpp/Scanner.cpp",
+					"workingDirectory" : "E:/WorkSpace/CameraToPdfScanner/smartcropperlib/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=\"E:/RB Infotech/android_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"E:/RB Infotech/android_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot\"  -Dsmart_cropper_EXPORTS -I..\\..\\..\\..\\opencv\\include -I..\\..\\..\\..\\src\\main\\cpp\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "E:/WorkSpace/CameraToPdfScanner/smartcropperlib/src/main/cpp/smart_cropper.cpp",
+					"workingDirectory" : "E:/WorkSpace/CameraToPdfScanner/smartcropperlib/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "E:/WorkSpace/CameraToPdfScanner/smartcropperlib/build/intermediates/cmake/release/obj/armeabi-v7a/libsmart_cropper.so",
+			"toolchain" : "3976674897"
+		}
+	},
+	"toolchains" : 
+	{
+		"3976674897" : 
+		{
+			"cCompilerExecutable" : "E:/RB Infotech/android_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "E:/RB Infotech/android_sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\AndroidStudio\\StupendousAndro\\SmartCropperLib\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\android_sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\AndroidStudio\\StupendousAndro\\SmartCropperLib\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+  ],
+  "libraries": {
+    "smart_cropper-Debug-x86": {
+      "artifactName": "smart_cropper",
+      "buildCommand": "D:\\Android\\android_sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\AndroidStudio\\StupendousAndro\\SmartCropperLib\\.externalNativeBuild\\cmake\\debug\\x86 --target smart_cropper",
+      "abi": "x86",
+      "output": "D:\\AndroidStudio\\StupendousAndro\\SmartCropperLib\\build\\intermediates\\cmake\\debug\\obj\\x86\\libsmart_cropper.so"
+    }
+  }
+}

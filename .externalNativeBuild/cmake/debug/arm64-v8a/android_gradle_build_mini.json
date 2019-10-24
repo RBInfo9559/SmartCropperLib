@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "E:\\WorkSpace\\CameraToPdfScanner\\smartcropperlib\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "\"E:\\RB Infotech\\android_sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\" --build E:\\WorkSpace\\CameraToPdfScanner\\smartcropperlib\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "smart_cropper-Debug-arm64-v8a": {
+      "artifactName": "smart_cropper",
+      "buildCommand": "\"E:\\RB Infotech\\android_sdk\\cmake\\3.6.4111459\\bin\\cmake.exe\" --build E:\\WorkSpace\\CameraToPdfScanner\\smartcropperlib\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target smart_cropper",
+      "abi": "arm64-v8a",
+      "output": "E:\\WorkSpace\\CameraToPdfScanner\\smartcropperlib\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libsmart_cropper.so"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffc0c0c0</color>
+    <color name="colorPrimaryDark">#ffc0c0c0</color>
+    <color name="colorAccent">#4D6FDE</color>
+
+    <color name="pager_bg_gray">#ffc0c0c0</color>
+    <color name="imagepicker_white">#FFFFFF</color>
+    <color name="imagepicker_black">#000000</color>
+    <color name="imagepicker_black_alpha_50">#80000000</color>
+    <color name="imagepicker_grey">#9E9E9E</color>
+    <color name="imagepicker_dark">#323232</color>
+    <color name="imagepicker_teal">#009688</color>
+    <color name="imagepicker_teal_dark">#00796B</color>
+    <color name="imagepicker_pink">#969BA2</color>
+    <color name="img_color">#4D6FDE</color>
+    <color name="c1">#3B4987</color>
+    <color name="c2">#488EB7</color>
+    <color name="c">#969BA2</color>
+
+
+</resources>
